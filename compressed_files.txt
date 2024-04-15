@@ -1,0 +1,13 @@
+boot.img.xz
+system_ext/priv-app/Settings/Settings.apk.xz
+system_ext/apex/com.android.vndk.v30.apex.xz
+modem.img.xz
+vendor/etc/camera/st_license.lic.xz
+product/priv-app/MIUIMusicT/MIUIMusicT.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+product/priv-app/MiuiExtraPhoto/MiuiExtraPhoto.apk.xz
+product/priv-app/MIUIBrowser/MIUIBrowser.apk.xz
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.xz
+product/app/VoiceAssistAndroidT/VoiceAssistAndroidT.apk.xz
+product/data-app/Health/Health.apk.xz
+product/data-app/SmartHome/SmartHome.apk.xz
