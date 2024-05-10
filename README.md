@@ -1,0 +1,14 @@
+# missi_phoneext4_global-user 13 TKQ1.221114.001 V816.0.1.0.TKHIDXM release-keys
+- manufacturer: xiaomi
+- platform: kona
+- codename: alioth
+- flavor: missi_phoneext4_global-user
+- release: 13
+- id: TKQ1.221114.001
+- incremental: V816.0.1.0.TKHIDXM
+- tags: release-keys
+- fingerprint: Redmi/alioth_id/alioth:13/RKQ1.211001.001/V816.0.1.0.TKHIDXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.1.0.TKHIDXM-release-keys
+- repo: redmi_alioth_dump
