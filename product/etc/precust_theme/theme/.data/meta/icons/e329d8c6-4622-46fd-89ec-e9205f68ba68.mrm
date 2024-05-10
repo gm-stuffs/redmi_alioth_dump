@@ -1,0 +1,63 @@
+{
+  "localId": "e329d8c6-4622-46fd-89ec-e9205f68ba68",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "2569429516e4061376debee57628d39f349d62ae",
+  "platform": 10,
+  "size": 3555120,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "Mi Themes"
+  },
+  "designers": {
+    "fallback": "Mi Themes"
+  },
+  "titles": {
+    "fallback": "POCO"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "en_US": [],
+    "fallback": [
+      "preview_icons_small_mask_0.jpg",
+      "preview_icons_mask_0.jpg",
+      "preview_icons_mask_1.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [],
+    "fallback": [
+      "preview_icons_mask_0.jpg",
+      "preview_icons_mask_1.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "82202167-50d3-436d-b6cd-176029b69cb3",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "packageName": null,
+  "officialIcons": false,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "themeType": 0,
+  "miuiAdapterVersion": "2.0"
+}
